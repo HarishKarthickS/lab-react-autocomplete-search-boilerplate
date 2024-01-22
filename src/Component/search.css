@@ -1,0 +1,20 @@
+#Search-container {
+  display: flex;
+  height: 48px;
+  justify-content: space-around;
+  align-items: center;
+  width: 480px;
+}
+#Search-container button {
+  background-color: aqua;
+  height: 42px;
+  width: 60px;
+}
+#Search-container button img {
+  height: 30px;
+  width: 30px;
+}
+#Search-container input {
+  height: 31px;
+  width: 280px;
+}
